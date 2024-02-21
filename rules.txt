@@ -1,0 +1,30 @@
+Story:
+You are a traveler who had found himself in a small village. You are curious a go talk to the villigers. One of them tells you about a monster threatning 
+the village and you decide to kill the monster and help the village. However, your skills are not as good so you need to gain some better skills and health. 
+The villagers can help you with that. Good luck.
+
+responses:
+yes/no
+if asked for an item - name of the item
+inspect
+go away 
+
+map coordinates
+x = [1,2]
+y = [1,2,3,4,5]
+
+For if you're lazy:
+
+Map coordinates and coresponding places and items
+[1,1] - healer - wants berries (medicine - health)
+[1,2] - blacksmith - wants leather (armor - defence)
+[1,3] - empty house (helmet, knife - defence,attack)
+[1,4] - clothing shop - wants pretty stone (leather)
+[1,5] - meadow (cows)
+[2,1] - restaurant (soup - health)
+[2,2] - family house (pie - health)
+[2,3] - forest (berries)
+[2,4] - creek (pretty stone)
+[2,5] - cave of the Monster (final boss)
+
+() = what the npc gives you
